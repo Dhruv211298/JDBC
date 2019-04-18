@@ -1,2 +1,2 @@
 # JDBC
-Database Connection using java
+Database Connection Using Simple And Prepared Statement In Java.
